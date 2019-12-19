@@ -1,0 +1,61 @@
+{
+    "name": "Arm Mbed",
+    "description": "The ArmMbed IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28251-os-mbed-com.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "internet of things"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/arm-mbed\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Arm Mbed",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28251-os-mbed-com.jpg",
+            "humanURL": "https:\/\/os.mbed.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/arm-mbed-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/arm-mbed-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/arm-mbed\/people"
+        },
+        {
+            "type": "Email",
+            "url": "partnership@mbed.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@mbed.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@mbed.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ArmMbed"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/os.mbed.com"
+        }
+    ]
+}
